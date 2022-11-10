@@ -5,7 +5,8 @@ export const productone = [
         des1: "BLUEBERRIES COMBO",
         des2: "",
         qty: "1 Pc",
-        price: 629
+        price: 629,
+        category: "fruits"
     },
     {
         img: "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/70726a6d-f35e-480c-ba42-c95e808e3ec1_425x425.jpg",
@@ -13,7 +14,8 @@ export const productone = [
         des1: "Product of : USA.",
         des2: "When it comes to apples, our mind remembers Washington automatically. Enjoy every bite of this All time favourite apples of the world.",
         qty: "500 g",
-        price: 224.5
+        price: 224.5,
+        category: "fruits"
     }, 
     {
         img: "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/f341c972-bc85-4b0d-8309-6bdaa4fd0cad_425x425.JPG",
@@ -21,7 +23,8 @@ export const productone = [
         des1: "Product of : USA.",
         des2: "Red Globe grapes are mildly sweet and flavourful. They are not as tangy as Flame seedless",
         qty: "200 g",
-        price: 99.8
+        price: 99.8,
+        category: "fruits"
     },
     {
         img: "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/620b0bb1-440e-4d83-896a-35bc6f274c3c_425x425.jpg",
@@ -29,7 +32,8 @@ export const productone = [
         des1: "Product of : USA.",
         des2: "A distinctive, honey sweet taste and a juicy texture makes this apple delectable",
         qty: "500 g",
-        price: 214.5
+        price: 214.5,
+        category: "fruits"
     },
     {
         img: "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/d2f0e000-0d5f-4153-a8c7-caddb93bb9eb_425x425.jpg",
@@ -37,7 +41,8 @@ export const productone = [
         des1: "Product of : INDIA.",
         des2: "",
         qty: "1 Pc",
-        price: 40
+        price: 40,
+        category: "fatfree"
     },
     {
         img: "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/b8473f37-a863-4a02-8bc5-81c523f5290e_425x425.jpg",
@@ -45,7 +50,8 @@ export const productone = [
         des1: "Product of : INDIA.",
         des2: "",
         qty: "1 Pc",
-        price: 125
+        price: 125,
+        category: "fatfree"
     },
     {
         img: "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/8ddeaf63-7d49-4498-bfd8-2dc80e3df458_425x425.JPG",
@@ -53,7 +59,8 @@ export const productone = [
         des1: "Product of : Spain.",
         des2: "Juicy nectarine has a delicious flavor that can be relished as is or in desserts",
         qty: "1 kg",
-        price: 2199
+        price: 2199,
+        category: "fruits"
     },
     {
         img: "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/52f5fdaa-c9c5-4026-bf57-5e2bf06c24cf_425x425.JPG",
@@ -61,7 +68,8 @@ export const productone = [
         des1: "Product of : INDIA.",
         des2: "Full of soluble fiber, tangy, juicy oranges are helpful in lowering cholesterol",
         qty: "1 kg",
-        price: 129
+        price: 129,
+        category: "fruits"
     },
     {
         img: "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/e052813e-041b-44ee-b255-b7356c6af4ac_425x425.JPG",
@@ -69,7 +77,8 @@ export const productone = [
         des1: "Product of : INDIA.",
         des2: "Sweet, delicious, and cutely round, green peas are also called garden peas.",
         qty: "1 kg",
-        price: 359
+        price: 359,
+        category:"vegitable"
     },
     {
         img: "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/ced65f9e-c6b2-41fc-9662-7c5a564e5c2b_425x425.jpg",
@@ -77,7 +86,8 @@ export const productone = [
         des1: "Product of : New Zealand/USA.",
         des2: "Here's the pefect rich and pulpy apples which are developed and bred in New Zealand",
         qty: "1 kg",
-        price: 214.5
+        price: 214.5,
+        category: "fruits"
     },
     {
         img: "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/63b69966-4855-4b1f-80a2-74796c8a5e09_425x425.JPG",
@@ -85,7 +95,8 @@ export const productone = [
         des1: "Product of : INDIA.",
         des2: "A popular fruit, the custard apple is much loved globally for its unique shape and sweet taste.",
         qty: "1 kg",
-        price: 74.75
+        price: 74.75,
+        category: "fruits"
     },
     {
         img: "https://d1z88p83zuviay.cloudfront.net/Images/no-images425x425.jpg",
@@ -93,7 +104,8 @@ export const productone = [
         des1: "PEARS BEAUTY IMPORTED",
         des2: "",
         qty: "1 kg",
-        price: 189.5
+        price: 189.5,
+        category:"vegitable"
     },
     {
         img: "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/7fb83bef-4c1c-4f81-96e6-44c4d3eac077_425x425.jpg",
@@ -101,7 +113,8 @@ export const productone = [
         des1: "Product of : New Zealand/USA.",
         des2: "Royal Gala was developed in New Zealand and is a red sport of the Gala variety.",
         qty: "1 kg",
-        price: 174.5
+        price: 174.5,
+        category: "fruits"
     },
     {
         img: "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/c952f42a-21b8-4271-98ba-58e0afdd47bb_425x425.jpg",
@@ -109,7 +122,8 @@ export const productone = [
         des1: "PEARS PACKHAM",
         des2: "",
         qty: "1 kg",
-        price: 299
+        price: 299,
+        category: "fruits"
     },
     {
         img: "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/fb35012c-ed68-4553-af94-b44c35ed8586_425x425.jpg",
@@ -117,7 +131,8 @@ export const productone = [
         des1: "Product of : New Zealand/USA.",
         des2: "The compound quercitin, a major component in green apple peels, helps to lower sugar levels and manage type-2 diabetes mellitus. ",
         qty: "1 kg",
-        price: 199.5
+        price: 199.5,
+        category: "fruits"
     },
     {
         img: "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/6fe7cc7b-c825-4126-90da-1c631719940c_425x425.JPG",
@@ -125,7 +140,8 @@ export const productone = [
         des1: "Product of : INDIA",
         des2: "",
         qty: "1 Pc",
-        price: 55
+        price: 55,
+        category:"vegitable"
     }
 
 

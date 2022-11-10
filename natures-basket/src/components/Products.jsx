@@ -11,7 +11,7 @@ import {
     useColorModeValue,
   } from '@chakra-ui/react';
   
-  export default function Products() {
+  export default function Products({item}) {
     return (
       <Center py={6}>
         <Box
@@ -22,10 +22,11 @@ import {
           rounded={'md'}
           overflow={'hidden'}>
           <Image
-            h={'120px'}
+            h={'200px'}
             w={'full'}
-            src={
-              'https://images.unsplash.com/photo-1612865547334-09cb8cb455da?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80'
+            p={"5px"}
+            src={item.img
+              // 'https://images.unsplash.com/photo-1612865547334-09cb8cb455da?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80'
             }
             objectFit={'cover'}
           />
@@ -43,14 +44,15 @@ import {
           </Flex> */}
   
           <Box p={6}>
-            <Stack spacing={0} align={'center'} mb={5}>
-              <Heading fontSize={'2xl'} fontWeight={500} fontFamily={'body'}>
+            <Stack spacing={0} align={'center'} mt={5}>
+              {/* <Heading fontSize={'2xl'} fontWeight={500} fontFamily={'body'}>
                 John Doe
-              </Heading>
-              <Text color={'gray.500'}>Frontend Developer</Text>
+              </Heading> */}
+              <Text color={'#BA5533'} mb="15px">{item.title}</Text>
+              <Text color={'black'} fontSize={'sm'}>{item.qty}</Text>
             </Stack>
   
-            <Stack direction={'row'} justify={'center'} spacing={6}>
+            {/* <Stack direction={'row'} justify={'center'} spacing={6}>
               <Stack spacing={0} align={'center'}>
                 <Text fontWeight={600}>23k</Text>
                 <Text fontSize={'sm'} color={'gray.500'}>
@@ -63,19 +65,33 @@ import {
                   Followers
                 </Text>
               </Stack>
-            </Stack>
+            </Stack> */}
   
             <Button
-              w={'full'}
+              // w={'full'}
               mt={8}
-              bg={useColorModeValue('#151f21', 'gray.900')}
+              mr="5px"
+              //bg={useColorModeValue('#151f21', 'gray.900')}
+              //color={'white'}
+              border="1px solid grey"
+              rounded={'md'}
+              _hover={{
+                transform: 'translateY(-2px)',
+                boxShadow: 'lg',
+              }}>
+              MRP₹{item.price}
+            </Button>
+            <Button
+              // w={'full'}
+              mt={8}
+              bg={useColorModeValue('#91BF45', 'gray.900')}
               color={'white'}
               rounded={'md'}
               _hover={{
                 transform: 'translateY(-2px)',
                 boxShadow: 'lg',
               }}>
-              Follow
+              <Image src="https://www.naturesbasket.co.in/Images/CartAddBtn.PNG" />
             </Button>
           </Box>
         </Box>
