@@ -1,0 +1,126 @@
+.homeImageOne {
+  width: 85%;
+  margin: auto;
+}
+.gridImages {
+  border-radius: 10px;
+}
+.headingCat {
+  background: url("https://www.naturesbasket.co.in/Images/heading-bg.png")
+    no-repeat scroll center 0px;
+  padding: 10px 0px;
+  width: 100%;
+  margin: 10px 0px 10px;
+}
+.headingCatText {
+  display: table;
+  margin: -6px auto 0;
+  padding: 0px 30px;
+  text-transform: uppercase;
+  background: #ffffff;
+  letter-spacing: 2px;
+  font-size: 20px;
+}
+.slickCardImage {
+  cursor: pointer;
+  color: #880033;
+  box-shadow: 5px 5px 5px 5px rgb(199 138 102 / 37%);
+  border-radius: 10px;
+  width: 350px;
+}
+.slickCardTitle {
+  font-size: 16px;
+  color: #333333;
+  letter-spacing: 1px;
+  padding: 10px 0 10px 3px;
+  font-weight: 500;
+}
+.slickCardText {
+  font-size: 14px;
+  color: #333;
+  border-bottom: 1px solid #f1f1f1;
+  background: url("https://www.naturesbasket.co.in/Images/arrows-shop-by.png")
+    no-repeat scroll right 14px;
+  letter-spacing: 1px;
+  padding: 10px 0 10px 3px;
+  cursor: pointer;
+}
+.slickCardTwo {
+  width: 300px;
+  margin-right: 5px;
+  margin: 5px 1px;
+  padding: 8px;
+  padding-bottom: 30px;
+}
+.slickCardTwo:hover {
+  box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+}
+.slickCardTwoImage {
+  box-shadow: 1px 2px #efe9e9;
+  border-radius: 10px;
+  border: 0.2px solid rgb(238, 238, 238);
+  width: 99%;
+  color: #666666;
+  font-size: 13px;
+  cursor: pointer;
+}
+.slickCardTwoPopup {
+  font-weight: bolder;
+  border: 1px solid rgb(182, 22, 113);
+  margin-left: 40px;
+  width: 65%;
+  margin-top: 15px;
+  border-radius: 10px;
+  background: rgba(208, 178, 139, 0.09);
+  transform: translate3d(0px, 0px, -100px);
+  transition: transform 0.35s ease 0s;
+  font-size: 12px;
+  padding: 2px 6px 2px 4px;
+  position: relative;
+  z-index: 9;
+  color: #880033;
+  text-transform: uppercase;
+  top: -3px;
+  letter-spacing: 1px;
+  display: block;
+  text-align: center;
+}
+.slickCardTwoTitle {
+  color: #880033;
+  text-align: center;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  transition: all 300ms ease 0s;
+  padding-top: 8px;
+  text-overflow: clip;
+}
+.slickCardTwoButtonOne {
+  border: 1px solid #cfcfcf;
+  padding: 9px 10px;
+  border-radius: 10px;
+  font-size: 14px;
+}
+.slickCardTwoButtonTwo {
+  border: 1px solid #cfcfcf;
+  padding: 9px 10px;
+  border-radius: 10px;
+  color: white;
+  font-size: 14px;
+}
+.eventImage {
+  border-radius: 10px;
+  width: 421px;
+}
+.discoverButton {
+  width: 25%;
+}
+.discoverButton:hover {
+  border-bottom: 3px solid rgb(123, 205, 0);
+}
+.aboutHeader {
+  font-size: 1.17em;
+  font-weight: 500;
+}
+.aboutPara {
+  font-size: 13px;
+}

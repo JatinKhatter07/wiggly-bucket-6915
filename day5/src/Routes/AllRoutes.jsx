@@ -8,6 +8,7 @@ import PrivateRoute from "./PrivateRoute";
 import ProductPage from "./ProductPage";
 import Signup from "./Signup";
 import SingleProduct from "./SingleProduct";
+import Admin from "./Admin";
 
 export default function AllRoutes() {
   return (
@@ -18,6 +19,7 @@ export default function AllRoutes() {
       <Route path="/product" element={<ProductPage />} />
       <Route path="/product/:id" element={<SingleProduct />} />
       <Route path="/cart" element={<CartPage />} />
+      <Route path="/Admin" element={<Admin/>}></Route>
       <Route
         path="/checkout"
         element={

@@ -1,0 +1,47 @@
+.continueText {
+  cursor: pointer;
+  border: 2px solid #92be4d;
+  border-radius: 10px;
+  font-size: 14px;
+  margin-top: 0px;
+  padding: 8px 6px;
+  margin-right: 12px;
+  text-align: center;
+  width: 171px;
+  font-weight: 500;
+}
+.proceedText {
+  width: 200px;
+  font-size: 14px;
+  height: 40px;
+  background-color: #92be4d;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 0px;
+  font-weight: 500;
+  margin-top: 0px;
+}
+.timings {
+  padding: 10px 0px;
+  margin-top: 20px;
+  border-top: 2px solid #dedede;
+  background: url("https://www.naturesbasket.co.in/Images/heading-bg.png")
+    no-repeat scroll center -14px;
+}
+.headerText {
+  color: #b71761;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 16px;
+}
+.tableHeaderText {
+  border: 0px;
+  text-transform: uppercase;
+  text-align: end;
+  font-weight: bold;
+}
+.cartBox {
+  border: 1px solid #413030;
+  margin: 2px;
+  background-color: #f1f1f1;
+}
