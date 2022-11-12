@@ -1,0 +1,160 @@
+.productImageOne {
+  border-radius: 25px;
+  margin: 0px;
+  cursor: pointer;
+}
+.filterMainBox {
+  width: 16%;
+  background-color: #fff;
+  border: solid 1px #ededed;
+  border-radius: 4px;
+  height: fit-content;
+}
+.filterHeader {
+  text-transform: uppercase;
+  padding: 10px 0 10px 20px;
+  margin-bottom: 2px;
+}
+.filterHeaderOne {
+  color: #555b54;
+  font-size: 18px;
+}
+.filterHeaderTwo {
+  color: #84ba40;
+  cursor: pointer;
+  font-size: 12px;
+  padding: 5px;
+  letter-spacing: 0.5px;
+}
+.filterBody {
+  background-color: #fff;
+  border: solid 1px #ededed;
+  border-radius: 4px;
+}
+.filterBodyHeader {
+  padding: 10px 0 0;
+  margin: 5px 20px;
+  font-size: 14px;
+  cursor: pointer;
+  color: #402e00;
+  font-weight: bold;
+}
+.filterBodyBox {
+  overflow: scroll;
+  width: 209px;
+  max-height: 160px;
+}
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+::-webkit-scrollbar-corner {
+  width: 209px;
+  /* height: 0px; */
+  background-color: white;
+}
+.filterBodyText {
+  border: 0.5px solid rgb(182, 22, 113);
+  border-radius: 5px;
+  margin-top: 5px;
+  width: 200px;
+  background-color: white;
+  padding: 5px;
+  padding-left: 15px;
+  color: rgb(182, 22, 113);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.filterBodyText:hover {
+  background-color: rgb(182, 22, 113);
+  color: white;
+}
+.filterBodyTextTwo {
+  border: 0.5px solid rgb(182, 22, 113);
+  border-radius: 5px;
+  margin-top: 5px;
+  width: 200px;
+  background-color: white;
+  padding: 5px;
+  padding-left: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  text-transform: capitalize;
+  font-size: 14px;
+}
+.filterBodyTextTwo:hover {
+  color: #84ba40;
+}
+.productViewMainBox {
+  width: 82.5%;
+}
+.breadcrumb {
+  margin: 15px 0 20px;
+  color: #bbbbbb;
+  font-size: 14px;
+}
+.viewHeaderOne {
+  color: #111111;
+  font-size: 24px;
+  cursor: pointer;
+}
+.viewHeaderTwo {
+  color: #858585;
+  font-size: 16px;
+  cursor: pointer;
+}
+.viewHeaderLast {
+  background: url("https://www.naturesbasket.co.in/Images/heading-bg.png")
+    no-repeat scroll center 0px;
+  margin: 20px 0 10px;
+  padding: 10px 0px;
+}
+.viewHeaderText {
+  background: #ffffff;
+  margin-top: -10px;
+  font-size: 20px;
+  width: 70px;
+}
+.singleImage {
+  width: 425px;
+  height: 425px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  box-shadow: 0px 6px lightgrey;
+}
+.singleTitle {
+  font-size: 24px;
+  color: #011111;
+}
+.singleDescription {
+  font-size: 14px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #011111;
+}
+.singlePiece {
+  font-size: 14px;
+  color: #b3a8a8;
+  padding-bottom: 40px;
+}
+.singleTaxes {
+  color: #402e00;
+  font-size: 13px;
+  max-height: 65px;
+  padding-top: 8px;
+  border-bottom: 1px solid #aeaeae;
+}
+.singleKnowMore {
+  font-size: 20px;
+  padding: 20px 0px;
+  color: #402e00;
+}
