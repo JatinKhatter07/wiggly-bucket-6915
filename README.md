@@ -28,20 +28,20 @@ In this project we used following tech stacks:-
 
 ## Screenshots
 
-### 1. Home Page
-![Home Page](./src/Assets/homePage.png)
-### 2. Login Page
-![Login Page](./src/Assets/loginPage.png)
-### 3. Signup Page
-![Signup Page](./src/Assets/signupPage.png)
-### 4. Products Page
-![Products Page](./src/Assets/productPage.png)
-### 5. Product View Page
-![Product View Page](./src/Assets/productView.png)
-### 6. Cart Page
-![Cart Page](./src/Assets/cartPage.png)
-### 7. Checkout Page
-![Checkout Page](./src/Assets/checkoutPage.png)
+<h2> 1. Home Page </h2>
+<img src="https://github.com/JatinKhatter07/wiggly-bucket-6915/raw/main/natures-basket/src/Assets/homePage.png">
+<h2> 2. Login Page </h2>
+<img src="https://github.com/JatinKhatter07/wiggly-bucket-6915/raw/main/natures-basket/src/Assets/loginPage.png">
+<h2> 3. Signup Page </h2>
+<img src="https://github.com/JatinKhatter07/wiggly-bucket-6915/raw/main/natures-basket/src/Assets/signupPage.png">
+<h2> 4. Products Page </h2>
+<img src="https://github.com/JatinKhatter07/wiggly-bucket-6915/raw/main/natures-basket/src/Assets/productPage.png">
+<h2> 5. Product View Page </h2>
+<img src="https://github.com/JatinKhatter07/wiggly-bucket-6915/raw/main/natures-basket/src/Assets/productView.png">
+<h2> 6. Cart Page </h2>
+<img src="https://github.com/JatinKhatter07/wiggly-bucket-6915/raw/main/natures-basket/src/Assets/cartPage.png">
+<h2> 7. Checkout Page </h2>
+<img src="https://github.com/JatinKhatter07/wiggly-bucket-6915/raw/main/natures-basket/src/Assets/checkoutPage.png">
 
 <h2>.......Connect with our team member's........</h2>
 <a href="https://github.com/JatinKhatter07"<h3>Jatin Khatter</h3></a>
