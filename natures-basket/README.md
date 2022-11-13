@@ -1,6 +1,7 @@
 # Nature basket Clone
 
-Hello everyone, I'm Jatin Khatter builded a clone of https://www.naturesbasket.co.in/ in my construct week of Unit-4 at Masai School. Link for my solution:-.
+Hello everyone, I'm Jatin Khatter builded a clone of https://www.naturesbasket.co.in/ in my construct week of Unit-4 at Masai School. Link for my solution:-
+https://naturesbaskett.vercel.app/.
 
 
 ## Features
@@ -42,13 +43,15 @@ In this project we used following tech stacks:-
 ### 7. Checkout Page
 ![Checkout Page](./src/Assets/checkoutPage.png)
 
+<h3>.......Connect with our team member's........</h3>
+<h4>Jatin Khatter</h4>
+<h4>Sateesh Vepada</h4>
+<h4>Priyanka Dubey </h4>
+<h4>shobha Malviya</h4>
 
-## Connect with author
-
-- [Twitter]()
-- [LinkdIn]()
 
 
 ## Feedback
 
 If you have any feedback or queries, please reach out to me at jatinkhatter789@gmail.com.
+
