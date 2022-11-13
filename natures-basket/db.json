@@ -1,0 +1,88 @@
+{
+  "Data": [
+    {
+      "brand": "Fruit and Vegetable",
+      "description": "Try masala curry which is an amazing mix of brinjals with simmering spices cooked in gravy",
+      "id": "1",
+      "image": "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/03dff5a4-7597-4057-b485-7305c85b0251_425x425.JPG",
+      "quantity": "1Pc",
+      "popUpMess": "DELIVERY IN 80 MINUTES",
+      "price": 40,
+      "title": "Brinjal Small 250g"
+    },
+    {
+      "brand": "coffiea",
+      "description": "a",
+      "image": "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/17d6b165-a222-4e0e-9d2e-20c34236e277_425x425.jpg",
+      "quantity": "2",
+      "popUpMess": "a",
+      "price": "400",
+      "title": "a",
+      "id": "mmA_DgI"
+    },
+    {
+      "brand": "",
+      "description": "",
+      "image": "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/17d6b165-a222-4e0e-9d2e-20c34236e277_425x425.jpg",
+      "quantity": "",
+      "popUpMess": "",
+      "price": "100",
+      "title": "",
+      "id": "UkhbV6v"
+    },
+    {
+      "brand": "",
+      "description": "",
+      "image": "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/17d6b165-a222-4e0e-9d2e-20c34236e277_425x425.jpg",
+      "quantity": "",
+      "popUpMess": "",
+      "price": "500",
+      "title": "",
+      "id": "Yc7eeSs"
+    }
+  ],
+  "userData": [
+    {
+      "UserType": "ADMIN",
+      "Email": "a@gmail.com",
+      "Password": "aaa",
+      "id": 1
+    },
+    {
+      "UserType": "ADMIN",
+      "Email": "raja@gmail.com",
+      "Password": "rajaTheGreat",
+      "id": 2
+    },
+    {
+      "UserType": "USER",
+      "Email": "fu@gmail.com",
+      "Password": "123",
+      "id": 3
+    },
+    {
+      "UserType": "ADMIN",
+      "Email": "sateesh@gmail.com",
+      "Password": "12345",
+      "id": 4
+    },
+    {
+      "UserType": "ADMIN",
+      "Email": "jatin@gmail.com",
+      "Password": "123",
+      "id": 5
+    },
+    {
+      "UserType": "ADMIN",
+      "Email": "priyanka@gmail.com",
+      "Password": "12345",
+      "id": 6
+    },
+    {
+      "UserType": "ADMIN",
+      "Email": "indian@gmail.com",
+      "Password": "indian@gmail.com",
+      "id": 7
+    }
+  ]
+}

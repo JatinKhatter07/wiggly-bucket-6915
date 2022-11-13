@@ -1,0 +1,40 @@
+.footerHeader {
+  color: #4a4a4a;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.footerText {
+  color: #858585;
+  font-size: 15px;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  letter-spacing: -0.5px;
+}
+.downloadImage {
+  width: 170px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.middleFooter {
+  margin-top: 20px;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  margin: auto;
+}
+.darkFooterEnd {
+  color: #4a4a4a;
+  font-size: 13px;
+  margin: 0 4px;
+  font-weight: 600;
+}
+.lightFooterEnd {
+  font-size: 13px;
+  color: #4a4a4a;
+  margin: 0 4px;
+}
