@@ -1,4 +1,4 @@
-# Nature basket Clone
+# Nature's basket Clone
 
 Hello everyone, I'm Jatin Khatter builded a clone of https://www.naturesbasket.co.in/ in my construct week of Unit-5 at Masai School. Link for my solution:-
 https://naturesbaskett.vercel.app/.
